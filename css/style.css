@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-light { background: var(--light);}
 .btn-primary { background: var(--primary);}
-.btn-secondar { background: var(--secondary);}
+.btn-secondary { background: var(--secondary);}
 
 .btn:hover {
     opacity: 0.9;
